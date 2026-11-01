@@ -1,0 +1,13 @@
+# Godot 4
+.godot/
+.import/
+export/
+builds/
+build/
+*.pck
+*.zip
+*.translation
+
+# OS
+.DS_Store
+Thumbs.db
